@@ -1,0 +1,8 @@
+# Ignore the data folder
+data/
+
+# Ignore the ipynb chekcpoints
+.ipynb_checkpoints/
+
+# Ignore pycache
+__pycache__/
